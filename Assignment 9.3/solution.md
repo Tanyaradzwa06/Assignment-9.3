@@ -1,4 +1,4 @@
-## Assignment 9.3 — 
+## Assignment 9.3 — COMBINE FLEXBOX AND GRID RESPONSIVELY
 
 Title: Combine Flexbox and Grid Responsively
 
